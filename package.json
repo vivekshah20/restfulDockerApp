@@ -1,0 +1,14 @@
+{
+ "name": "donuts",
+ "version": "1.0.0",
+ "description": "Docker Assignment",
+ "author": "Nitin Tokas & Mandar Kanitkar",
+ "main": "app.js",
+ "scripts": {
+  "start": "node app.js"
+ },
+ "dependencies": {
+  "express": "^4.16.2",
+  "fs": "0.0.1-security"
+ }
+}
