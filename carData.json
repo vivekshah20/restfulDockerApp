@@ -1,0 +1,10 @@
+[{"id":1,"first_name":"Hanny","last_name":"Dalli","car_make":"Pontiac","car_model":"LeMans","car_year":1989,"car_color":"Blue"},
+{"id":2,"first_name":"Nicoline","last_name":"Struis","car_make":"Buick","car_model":"Skylark","car_year":1993,"car_color":"Red"},
+{"id":3,"first_name":"Kerrill","last_name":"Sweedy","car_make":"Ford","car_model":"Econoline E250","car_year":1997,"car_color":"Mauv"},
+{"id":4,"first_name":"Humfrid","last_name":"Chamney","car_make":"Mazda","car_model":"MX-6","car_year":1991,"car_color":"Khaki"},
+{"id":5,"first_name":"Ashli","last_name":"Devine","car_make":"Cadillac","car_model":"STS","car_year":2006,"car_color":"Fuscia"},
+{"id":6,"first_name":"Kylen","last_name":"Giannazzo","car_make":"Subaru","car_model":"SVX","car_year":1997,"car_color":"Puce"},
+{"id":7,"first_name":"Deloria","last_name":"Mardoll","car_make":"Mitsubishi","car_model":"Galant","car_year":2003,"car_color":"Orange"},
+{"id":8,"first_name":"Julietta","last_name":"Lanon","car_make":"BMW","car_model":"M5","car_year":2003,"car_color":"Khaki"},
+{"id":9,"first_name":"Vassily","last_name":"Grinyakin","car_make":"Aston Martin","car_model":"Vantage","car_year":2008,"car_color":"Blue"},
+{"id":10,"first_name":"Faustina","last_name":"Gooke","car_make":"Ford","car_model":"Explorer Sport Trac","car_year":2003,"car_color":"Mauv"}]
